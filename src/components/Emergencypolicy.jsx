@@ -31,11 +31,11 @@ const EmergencyPolicy = () => {
       <h2 className="text-2xl lg:text-3xl xl:text-4xl font-semibold mb-2">Additional Regional Considerations:</h2>
       <p className="mb-4">CHOLA may implement additional emergency procedures or resources based on local laws, regulations, and emergency response protocols in specific regions.</p>
 
-      <p className="mb-4">Effective Date: [Insert Effective Date]</p>
+      <p className="mb-4">Effective Date: 9 Feb 2024</p>
 
       <p className="mb-4">By using the Chariots mobility app, you acknowledge that you have read, understood, and agree to comply with the terms of this emergency policy.</p>
       <div className="flex justify-center">
-        <button className="bg-purple-500 hover:bg-black hover:text- p text-white font-bold py-2 px-8  rounded"> I Agree</button>
+        <button className="bg-purple-700 hover:bg-black hover:text- p text-white font-bold py-2 px-8  rounded"> I Agree</button>
       </div>
     </div>
   );
